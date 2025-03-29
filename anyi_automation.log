@@ -1,0 +1,577 @@
+2025-03-29 13:55:08,748 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 13:55:08,749 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 13:55:08,893 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 13:55:08,897 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 21128)
+2025-03-29 13:55:08,898 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 13:55:08,900 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 13:55:08,904 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 4040)
+2025-03-29 13:55:08,906 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 13:55:08,907 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 13:55:08,912 - AnyiAutomation - INFO - 已删除.config文件夹: C:\Users\ZoomX\.config
+2025-03-29 13:55:08,913 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 13:55:08,913 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 13:55:37,606 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 13:55:39,632 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 13:55:39,632 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 13:55:42,633 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 13:55:42,633 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 13:55:42,683 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: The confidence keyword argument is only available if OpenCV is installed.
+2025-03-29 13:55:42,684 - AnyiAutomation - ERROR - 无法找到并点击图像 1.png
+2025-03-29 13:55:42,685 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 13:55:42,685 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 13:56:21,939 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 13:56:21,939 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 13:56:22,072 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 13:56:22,075 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 13568)
+2025-03-29 13:56:22,085 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 13:56:22,089 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 13:56:22,094 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 4092)
+2025-03-29 13:56:22,096 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 13:56:22,096 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 13:56:22,100 - AnyiAutomation - INFO - 已删除.config文件夹: C:\Users\ZoomX\.config
+2025-03-29 13:56:22,100 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 13:56:22,100 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 13:56:22,100 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 13:56:24,126 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 13:56:24,126 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 13:56:27,127 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 13:56:27,127 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 13:56:27,166 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: The confidence keyword argument is only available if OpenCV is installed.
+2025-03-29 13:56:27,167 - AnyiAutomation - ERROR - 无法找到并点击图像 1.png
+2025-03-29 13:56:27,167 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 13:56:27,168 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 13:56:41,657 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 13:56:41,657 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 13:56:41,707 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 13:56:41,710 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 3044)
+2025-03-29 13:56:41,818 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 13:56:41,820 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 13:56:41,825 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 18780)
+2025-03-29 13:56:41,826 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 13:56:41,826 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 13:56:41,831 - AnyiAutomation - INFO - 已删除.config文件夹: C:\Users\ZoomX\.config
+2025-03-29 13:56:41,831 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 13:56:41,831 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 13:56:41,831 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 13:56:43,860 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 13:56:43,860 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 13:56:46,861 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 13:56:46,861 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 13:56:46,900 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: The confidence keyword argument is only available if OpenCV is installed.
+2025-03-29 13:56:46,902 - AnyiAutomation - ERROR - 无法找到并点击图像 1.png
+2025-03-29 13:56:46,902 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 13:56:46,902 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 14:01:14,590 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:01:14,590 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:01:14,749 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 14:01:14,754 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 17524)
+2025-03-29 14:01:14,755 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 14:01:14,760 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 14:01:14,767 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 14068)
+2025-03-29 14:01:14,768 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 14:01:14,768 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:01:14,774 - AnyiAutomation - INFO - 已删除.config文件夹: C:\Users\ZoomX\.config
+2025-03-29 14:01:14,774 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 14:01:14,774 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:01:14,775 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:01:16,803 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:01:16,803 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:01:19,805 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:01:19,805 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:01:19,997 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:01:20,501 - AnyiAutomation - INFO - 点击图像 1.png 在位置 (1155, 538)
+2025-03-29 14:01:21,501 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:01:21,655 - AnyiAutomation - INFO - 找到图像 2.png 在位置 Point(x=np.int64(1528), y=np.int64(778))
+2025-03-29 14:01:22,162 - AnyiAutomation - INFO - 点击图像 2.png 在位置 (1530, 774)
+2025-03-29 14:01:23,092 - AnyiAutomation - INFO - 等待图像出现: 3.png
+2025-03-29 14:01:23,245 - AnyiAutomation - INFO - 找到图像 3.png 在位置 Point(x=np.int64(1727), y=np.int64(470))
+2025-03-29 14:01:23,751 - AnyiAutomation - INFO - 点击图像 3.png 在位置 (1732, 465)
+2025-03-29 14:01:24,831 - AnyiAutomation - INFO - 生成随机邮箱: kU2cZD@163.com
+2025-03-29 14:01:25,115 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:01:25,824 - AnyiAutomation - INFO - 已输入文本: kU2cZD@163.com
+2025-03-29 14:01:26,778 - AnyiAutomation - INFO - 等待图像出现: 4.png
+2025-03-29 14:01:26,930 - AnyiAutomation - INFO - 找到图像 4.png 在位置 Point(x=np.int64(1728), y=np.int64(546))
+2025-03-29 14:01:27,434 - AnyiAutomation - INFO - 点击图像 4.png 在位置 (1729, 549)
+2025-03-29 14:01:28,566 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:01:29,273 - AnyiAutomation - INFO - 已输入文本: kU2cZD@163.com
+2025-03-29 14:01:30,192 - AnyiAutomation - INFO - 等待图像出现: 5.png
+2025-03-29 14:01:30,331 - AnyiAutomation - INFO - 找到图像 5.png 在位置 Point(x=np.int64(1722), y=np.int64(692))
+2025-03-29 14:01:30,839 - AnyiAutomation - INFO - 点击图像 5.png 在位置 (1726, 694)
+2025-03-29 14:01:31,894 - AnyiAutomation - INFO - 等待图像出现: 6.png
+2025-03-29 14:01:32,059 - AnyiAutomation - ERROR - 查找图像 6.png 时发生错误: 
+2025-03-29 14:01:32,061 - AnyiAutomation - ERROR - 无法找到并点击图像 6.png
+2025-03-29 14:01:32,061 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 14:01:32,062 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 14:06:36,855 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:06:36,855 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:06:36,897 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 14:06:36,901 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 2236)
+2025-03-29 14:06:37,010 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 14:06:37,012 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 14:06:37,016 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 17056)
+2025-03-29 14:06:37,017 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 14:06:37,017 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:06:37,021 - AnyiAutomation - ERROR - 删除.config文件夹失败: [WinError 5] 拒绝访问。: 'C:\\Users\\ZoomX\\.config\\anyi\\cache.db'
+2025-03-29 14:06:37,021 - AnyiAutomation - WARNING - 删除配置文件夹失败
+2025-03-29 14:06:37,021 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:06:37,022 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:06:39,049 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:06:39,049 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:06:42,050 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:06:42,050 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:06:42,199 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:06:42,306 - AnyiAutomation - INFO - 点击图像 1.png 在位置 (1161, 544)
+2025-03-29 14:06:42,807 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:06:42,948 - AnyiAutomation - ERROR - 查找图像 2.png 时发生错误: 
+2025-03-29 14:06:42,950 - AnyiAutomation - ERROR - 无法找到并点击图像 2.png
+2025-03-29 14:06:42,950 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 14:06:42,951 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 14:06:56,144 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:06:56,144 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:06:56,337 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 14:06:56,342 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 21012)
+2025-03-29 14:06:56,343 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 14:06:56,348 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 14:06:56,356 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 20236)
+2025-03-29 14:06:56,356 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 14:06:56,356 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:06:56,359 - AnyiAutomation - ERROR - 删除.config文件夹失败: [WinError 5] 拒绝访问。: 'C:\\Users\\ZoomX\\.config\\anyi\\cache.db'
+2025-03-29 14:06:56,360 - AnyiAutomation - WARNING - 删除配置文件夹失败
+2025-03-29 14:06:56,360 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:06:56,361 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:06:58,392 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:06:58,392 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:07:01,393 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:07:01,393 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:07:01,548 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:07:01,656 - AnyiAutomation - INFO - 点击图像 1.png 在位置 (1154, 544)
+2025-03-29 14:07:02,117 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:07:02,258 - AnyiAutomation - ERROR - 查找图像 2.png 时发生错误: 
+2025-03-29 14:07:02,260 - AnyiAutomation - ERROR - 无法找到并点击图像 2.png
+2025-03-29 14:07:02,261 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 14:07:02,261 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 14:10:02,115 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:10:02,116 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:10:02,258 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 14:10:02,261 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 20784)
+2025-03-29 14:10:02,262 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 14:10:02,266 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 14:10:02,273 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 19548)
+2025-03-29 14:10:02,273 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 14:10:02,273 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:10:14,198 - AnyiAutomation - INFO - 已删除Anyi配置文件夹: C:\Users\ZoomX\.config\anyi
+2025-03-29 14:10:14,198 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 14:10:14,199 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:10:14,199 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:10:16,224 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:10:16,224 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:10:16,224 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:10:16,376 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:10:16,377 - AnyiAutomation - INFO - 检测到程序窗口已启动
+2025-03-29 14:10:16,377 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:10:16,377 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:10:16,527 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:10:16,633 - AnyiAutomation - INFO - 点击图像 1.png 在位置 (1156, 538)
+2025-03-29 14:10:17,186 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:10:17,348 - AnyiAutomation - INFO - 找到图像 2.png 在位置 Point(x=np.int64(1528), y=np.int64(778))
+2025-03-29 14:10:17,454 - AnyiAutomation - INFO - 点击图像 2.png 在位置 (1523, 778)
+2025-03-29 14:10:17,828 - AnyiAutomation - INFO - 等待图像出现: 3.png
+2025-03-29 14:10:17,970 - AnyiAutomation - INFO - 找到图像 3.png 在位置 Point(x=np.int64(1727), y=np.int64(470))
+2025-03-29 14:10:18,077 - AnyiAutomation - INFO - 点击图像 3.png 在位置 (1727, 467)
+2025-03-29 14:10:18,625 - AnyiAutomation - INFO - 生成随机邮箱: MPZqAC@163.com
+2025-03-29 14:10:18,903 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:10:19,210 - AnyiAutomation - INFO - 已输入文本: MPZqAC@163.com
+2025-03-29 14:10:19,770 - AnyiAutomation - INFO - 等待图像出现: 4.png
+2025-03-29 14:10:19,908 - AnyiAutomation - INFO - 找到图像 4.png 在位置 Point(x=np.int64(1728), y=np.int64(546))
+2025-03-29 14:10:20,017 - AnyiAutomation - INFO - 点击图像 4.png 在位置 (1725, 547)
+2025-03-29 14:10:20,554 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:10:20,859 - AnyiAutomation - INFO - 已输入文本: MPZqAC@163.com
+2025-03-29 14:10:21,221 - AnyiAutomation - INFO - 等待图像出现: 5.png
+2025-03-29 14:10:21,359 - AnyiAutomation - INFO - 找到图像 5.png 在位置 Point(x=np.int64(1722), y=np.int64(692))
+2025-03-29 14:10:21,466 - AnyiAutomation - INFO - 点击图像 5.png 在位置 (1725, 694)
+2025-03-29 14:10:21,962 - AnyiAutomation - INFO - 等待图像出现: 6.png
+2025-03-29 14:10:22,105 - AnyiAutomation - ERROR - 查找图像 6.png 时发生错误: 
+2025-03-29 14:10:22,107 - AnyiAutomation - ERROR - 无法找到并点击图像 6.png
+2025-03-29 14:10:22,107 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 14:10:22,107 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 14:12:10,871 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:12:10,872 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:12:11,013 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 14:12:11,018 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 20544)
+2025-03-29 14:12:11,018 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 14:12:11,021 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 14:12:11,027 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 17912)
+2025-03-29 14:12:11,028 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 14:12:11,028 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:12:22,582 - AnyiAutomation - INFO - 已删除Anyi配置文件夹: C:\Users\ZoomX\.config\anyi
+2025-03-29 14:12:22,583 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 14:12:22,583 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:12:22,583 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:12:24,607 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:12:24,607 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:12:24,607 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:24,755 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:25,258 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:25,408 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:25,912 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:26,076 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:26,580 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:26,729 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:27,234 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:27,368 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:27,870 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:28,000 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:28,504 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:28,716 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:29,220 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:29,369 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:29,873 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:30,072 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:30,576 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:30,709 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:31,212 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:31,365 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:31,869 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:32,012 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:32,516 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:32,654 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:33,156 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:33,293 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:33,797 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:33,948 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:34,452 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:34,598 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:35,101 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:35,248 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:35,751 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:35,906 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:36,409 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:36,549 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:37,052 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:37,201 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:12:37,704 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:37,854 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:12:37,854 - AnyiAutomation - INFO - 检测到程序窗口已启动
+2025-03-29 14:12:37,854 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:12:37,854 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:12:38,007 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:12:38,111 - AnyiAutomation - INFO - 点击图像 1.png 在位置 (1160, 540)
+2025-03-29 14:12:38,704 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:12:38,839 - AnyiAutomation - INFO - 找到图像 2.png 在位置 Point(x=np.int64(1528), y=np.int64(778))
+2025-03-29 14:12:38,943 - AnyiAutomation - INFO - 点击图像 2.png 在位置 (1530, 782)
+2025-03-29 14:12:39,270 - AnyiAutomation - INFO - 等待图像出现: 3.png
+2025-03-29 14:12:39,405 - AnyiAutomation - INFO - 找到图像 3.png 在位置 Point(x=np.int64(1727), y=np.int64(470))
+2025-03-29 14:12:39,507 - AnyiAutomation - INFO - 点击图像 3.png 在位置 (1724, 475)
+2025-03-29 14:12:39,963 - AnyiAutomation - INFO - 生成随机邮箱: 1olMYb@163.com
+2025-03-29 14:12:40,248 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:12:40,555 - AnyiAutomation - INFO - 已输入文本: 1olMYb@163.com
+2025-03-29 14:12:40,858 - AnyiAutomation - INFO - 等待图像出现: 4.png
+2025-03-29 14:12:40,999 - AnyiAutomation - ERROR - 查找图像 4.png 时发生错误: 
+2025-03-29 14:12:41,001 - AnyiAutomation - ERROR - 无法找到并点击图像 4.png
+2025-03-29 14:12:41,001 - AnyiAutomation - ERROR - 自动化操作失败
+2025-03-29 14:12:41,001 - AnyiAutomation - INFO - Anyi自动化流程结束
+2025-03-29 14:15:05,707 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:15:05,707 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:15:05,834 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 14:15:05,839 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 13180)
+2025-03-29 14:15:05,872 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 14:15:05,877 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 14:15:05,885 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 20304)
+2025-03-29 14:15:05,886 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 14:15:05,886 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:15:17,188 - AnyiAutomation - INFO - 已删除Anyi配置文件夹: C:\Users\ZoomX\.config\anyi
+2025-03-29 14:15:17,188 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 14:15:17,188 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:15:17,189 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:15:19,213 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:15:19,213 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:15:19,213 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:19,371 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:15:19,371 - AnyiAutomation - INFO - 检测到程序窗口已启动
+2025-03-29 14:15:19,371 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:15:19,372 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:19,529 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:15:19,583 - AnyiAutomation - INFO - 点击图像 1.png 在位置 (1163, 542)
+2025-03-29 14:15:19,920 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:15:20,096 - AnyiAutomation - INFO - 找到图像 2.png 在位置 Point(x=np.int64(1528), y=np.int64(778))
+2025-03-29 14:15:20,149 - AnyiAutomation - INFO - 点击图像 2.png 在位置 (1532, 782)
+2025-03-29 14:15:20,584 - AnyiAutomation - INFO - 等待图像出现: 3.png
+2025-03-29 14:15:20,723 - AnyiAutomation - INFO - 找到图像 3.png 在位置 Point(x=np.int64(1727), y=np.int64(470))
+2025-03-29 14:15:20,776 - AnyiAutomation - INFO - 点击图像 3.png 在位置 (1725, 473)
+2025-03-29 14:15:21,361 - AnyiAutomation - INFO - 生成随机邮箱: IWEpdI@163.com
+2025-03-29 14:15:21,638 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:15:21,895 - AnyiAutomation - INFO - 已输入文本: IWEpdI@163.com
+2025-03-29 14:15:22,415 - AnyiAutomation - INFO - 等待图像出现: 4.png
+2025-03-29 14:15:22,550 - AnyiAutomation - ERROR - 查找图像 4.png 时发生错误: 
+2025-03-29 14:15:22,552 - AnyiAutomation - ERROR - 无法找到并点击图像 4.png
+2025-03-29 14:15:22,552 - AnyiAutomation - WARNING - 第1次尝试失败: 自动化操作失败，正在重试...
+2025-03-29 14:15:22,557 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 17420)
+2025-03-29 14:15:22,561 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 21276)
+2025-03-29 14:15:23,562 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:15:25,588 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:15:25,588 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:25,742 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:26,045 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:26,197 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:26,500 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:26,671 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:26,975 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:27,106 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:27,409 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:27,539 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:27,842 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:27,992 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:28,296 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:28,433 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:28,737 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:28,870 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:29,173 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:29,317 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:29,621 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:29,795 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:30,099 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:30,227 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:30,530 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:30,659 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:30,963 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:31,103 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:31,407 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:31,545 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:31,850 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:31,994 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:32,297 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:32,463 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:32,768 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:32,942 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:33,246 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:33,389 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:33,693 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:33,834 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:34,137 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:34,283 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:34,587 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:34,734 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:35,037 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:35,179 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:35,482 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:35,682 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:35,986 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:36,140 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:36,444 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:36,584 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:36,888 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:37,022 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:37,325 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:37,470 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:37,773 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:37,930 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:38,233 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:38,381 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:38,684 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:38,933 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:39,237 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:39,401 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:39,705 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:39,880 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:40,184 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:40,329 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:40,632 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:40,778 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:41,081 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:41,223 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:41,527 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:41,667 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:41,969 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:42,113 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:42,417 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:42,563 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:42,866 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:43,011 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:43,315 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:43,455 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:43,758 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:43,905 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:44,208 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:44,342 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:44,644 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:44,780 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:45,084 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:45,222 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:45,525 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:45,665 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:45,968 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:46,109 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:46,412 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:46,552 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:46,856 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:46,999 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:47,302 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:47,441 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:47,744 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:47,883 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:48,187 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:48,340 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:48,643 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:48,779 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:49,083 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:49,221 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:49,524 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:49,666 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:49,969 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:50,113 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:50,416 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:50,566 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:50,870 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:51,010 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:51,312 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:51,453 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:51,757 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:51,897 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:52,201 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:52,343 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:52,645 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:52,785 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:53,089 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:53,234 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:53,537 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:53,673 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:53,977 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:54,141 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:54,444 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:54,590 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:54,894 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:55,042 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:55,346 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:15:55,486 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:15:55,789 - AnyiAutomation - WARNING - 第2次尝试失败: 程序窗口未出现，正在重试...
+2025-03-29 14:15:58,598 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:15:58,598 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:15:58,741 - AnyiAutomation - INFO - 进程 Anyi.exe 未运行
+2025-03-29 14:15:58,744 - AnyiAutomation - INFO - 进程 anyi-core.exe 未运行
+2025-03-29 14:15:58,744 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:16:09,206 - AnyiAutomation - INFO - 已删除Anyi配置文件夹: C:\Users\ZoomX\.config\anyi
+2025-03-29 14:16:09,207 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 14:16:09,207 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:16:09,207 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:16:11,232 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:16:11,232 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:16:11,232 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:11,403 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:11,712 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:11,922 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:12,226 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:12,366 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:12,669 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:12,810 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:13,113 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:13,263 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:16:13,263 - AnyiAutomation - INFO - 检测到程序窗口已启动
+2025-03-29 14:16:13,263 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:16:13,264 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:13,403 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(540))
+2025-03-29 14:16:13,459 - AnyiAutomation - INFO - 点击图像 1.png 在位置 (1158, 541)
+2025-03-29 14:16:14,030 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:16:14,167 - AnyiAutomation - INFO - 找到图像 2.png 在位置 Point(x=np.int64(1528), y=np.int64(778))
+2025-03-29 14:16:14,219 - AnyiAutomation - INFO - 点击图像 2.png 在位置 (1529, 781)
+2025-03-29 14:16:14,687 - AnyiAutomation - INFO - 等待图像出现: 3.png
+2025-03-29 14:16:14,820 - AnyiAutomation - INFO - 找到图像 3.png 在位置 Point(x=np.int64(1727), y=np.int64(470))
+2025-03-29 14:16:14,872 - AnyiAutomation - INFO - 点击图像 3.png 在位置 (1729, 470)
+2025-03-29 14:16:15,404 - AnyiAutomation - INFO - 生成随机邮箱: sbMLuA@163.com
+2025-03-29 14:16:15,679 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:16:15,935 - AnyiAutomation - INFO - 已输入文本: sbMLuA@163.com
+2025-03-29 14:16:16,248 - AnyiAutomation - INFO - 等待图像出现: 4.png
+2025-03-29 14:16:16,384 - AnyiAutomation - ERROR - 查找图像 4.png 时发生错误: 
+2025-03-29 14:16:16,386 - AnyiAutomation - ERROR - 无法找到并点击图像 4.png
+2025-03-29 14:16:16,386 - AnyiAutomation - WARNING - 第1次尝试失败: 自动化操作失败，正在重试...
+2025-03-29 14:16:16,391 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 9508)
+2025-03-29 14:16:16,396 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 20364)
+2025-03-29 14:16:17,397 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:16:19,422 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:16:19,422 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:19,576 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:19,879 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:20,050 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:20,358 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:20,521 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:20,823 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:20,965 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:21,268 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:21,412 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:21,715 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:21,863 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:22,167 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:22,325 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:22,629 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:22,788 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:23,091 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:23,330 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:23,634 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:23,815 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:24,118 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:24,262 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:24,567 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:24,710 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:25,013 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:25,165 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:25,468 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:25,615 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:25,918 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:26,090 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:26,394 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:26,573 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:26,901 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:27,055 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:16:27,358 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:16:27,506 - AnyiAutomation - ERROR - 查找图像 1.png 时发生错误: 
+2025-03-29 14:18:16,636 - AnyiAutomation - INFO - 开始Anyi自动化流程
+2025-03-29 14:18:16,636 - AnyiAutomation - INFO - 步骤1: 结束特定进程
+2025-03-29 14:18:16,753 - AnyiAutomation - INFO - 发现进程 Anyi.exe 正在运行，尝试终止
+2025-03-29 14:18:16,757 - AnyiAutomation - INFO - 已终止进程 Anyi.exe (PID: 9640)
+2025-03-29 14:18:16,785 - AnyiAutomation - INFO - 成功终止进程 Anyi.exe
+2025-03-29 14:18:16,787 - AnyiAutomation - INFO - 发现进程 anyi-core.exe 正在运行，尝试终止
+2025-03-29 14:18:16,791 - AnyiAutomation - INFO - 已终止进程 anyi-core.exe (PID: 19836)
+2025-03-29 14:18:16,791 - AnyiAutomation - INFO - 成功终止进程 anyi-core.exe
+2025-03-29 14:18:16,792 - AnyiAutomation - INFO - 步骤2: 删除配置文件夹
+2025-03-29 14:18:27,440 - AnyiAutomation - INFO - 已删除Anyi配置文件夹: C:\Users\ZoomX\.config\anyi
+2025-03-29 14:18:27,440 - AnyiAutomation - INFO - 成功删除配置文件夹
+2025-03-29 14:18:27,441 - AnyiAutomation - INFO - 步骤3: 运行Anyi.exe
+2025-03-29 14:18:27,441 - AnyiAutomation - INFO - 尝试运行Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:18:29,467 - AnyiAutomation - INFO - 成功启动Anyi.exe: C:\Program Files\Anyi\Anyi.exe
+2025-03-29 14:18:29,467 - AnyiAutomation - INFO - 等待Anyi.exe启动...
+2025-03-29 14:18:29,467 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:18:29,613 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(539))
+2025-03-29 14:18:29,614 - AnyiAutomation - INFO - 检测到程序窗口已启动
+2025-03-29 14:18:29,614 - AnyiAutomation - INFO - 步骤4: 执行图像自动化操作
+2025-03-29 14:18:29,614 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:18:29,749 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(539))
+2025-03-29 14:18:29,804 - AnyiAutomation - INFO - 成功点击图像 1.png 在位置 (1158, 539)
+2025-03-29 14:18:30,249 - AnyiAutomation - INFO - 等待图像出现: 2.png
+2025-03-29 14:18:30,384 - AnyiAutomation - INFO - 找到图像 2.png 在位置 Point(x=np.int64(1528), y=np.int64(778))
+2025-03-29 14:18:30,437 - AnyiAutomation - INFO - 成功点击图像 2.png 在位置 (1524, 780)
+2025-03-29 14:18:30,820 - AnyiAutomation - INFO - 等待图像出现: 3.png
+2025-03-29 14:18:30,949 - AnyiAutomation - INFO - 找到图像 3.png 在位置 Point(x=np.int64(1726), y=np.int64(470))
+2025-03-29 14:18:31,000 - AnyiAutomation - INFO - 成功点击图像 3.png 在位置 (1723, 471)
+2025-03-29 14:18:31,357 - AnyiAutomation - INFO - 生成随机邮箱: BpD97j@163.com
+2025-03-29 14:18:31,633 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:18:31,890 - AnyiAutomation - INFO - 已输入文本: BpD97j@163.com
+2025-03-29 14:18:32,318 - AnyiAutomation - INFO - 等待图像出现: 4.png
+2025-03-29 14:18:32,455 - AnyiAutomation - WARNING - 第1次查找图像 4.png 失败: ，准备重试
+2025-03-29 14:18:32,958 - AnyiAutomation - INFO - 正在进行第2次图像识别尝试: 4.png
+2025-03-29 14:18:33,095 - AnyiAutomation - INFO - 找到图像 4.png 在位置 Point(x=np.int64(1728), y=np.int64(546))
+2025-03-29 14:18:33,149 - AnyiAutomation - INFO - 成功点击图像 4.png 在位置 (1725, 543)
+2025-03-29 14:18:33,774 - AnyiAutomation - INFO - 已切换到英文输入法
+2025-03-29 14:18:34,030 - AnyiAutomation - INFO - 已输入文本: BpD97j@163.com
+2025-03-29 14:18:34,512 - AnyiAutomation - INFO - 等待图像出现: 5.png
+2025-03-29 14:18:34,652 - AnyiAutomation - INFO - 找到图像 5.png 在位置 Point(x=np.int64(1724), y=np.int64(690))
+2025-03-29 14:18:34,709 - AnyiAutomation - INFO - 成功点击图像 5.png 在位置 (1724, 693)
+2025-03-29 14:18:35,285 - AnyiAutomation - INFO - 等待图像出现: 1.png
+2025-03-29 14:18:35,430 - AnyiAutomation - INFO - 找到图像 1.png 在位置 Point(x=np.int64(1158), y=np.int64(539))
+2025-03-29 14:18:35,483 - AnyiAutomation - INFO - 成功点击图像 1.png 在位置 (1163, 539)
+2025-03-29 14:18:36,074 - AnyiAutomation - INFO - 等待图像出现: 6.png
+2025-03-29 14:18:36,220 - AnyiAutomation - WARNING - 第1次查找图像 6.png 失败: ，准备重试
+2025-03-29 14:18:36,723 - AnyiAutomation - INFO - 正在进行第2次图像识别尝试: 6.png
+2025-03-29 14:18:36,867 - AnyiAutomation - INFO - 找到图像 6.png 在位置 Point(x=np.int64(1155), y=np.int64(538))
+2025-03-29 14:18:36,920 - AnyiAutomation - INFO - 成功点击图像 6.png 在位置 (1151, 535)
+2025-03-29 14:18:37,362 - AnyiAutomation - INFO - 成功完成自动化操作序列
+2025-03-29 14:18:37,362 - AnyiAutomation - INFO - 成功完成所有自动化操作
+2025-03-29 14:18:37,362 - AnyiAutomation - INFO - Anyi自动化流程结束
